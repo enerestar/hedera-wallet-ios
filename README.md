@@ -4,7 +4,7 @@ The Hedera HashGraph wallet is a software program that creates, stores and manag
 
 This wallet enables management of multiple accounts, integrates with other software components on the Hedera HashgGraph ecosystem of apps.
 
-View the usage and licensing terms here
+[View the usage and licensing terms here](license.txt)
 
 ## Supported Signature algorithm options
 
